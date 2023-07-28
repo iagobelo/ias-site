@@ -1,0 +1,13 @@
+.img-box-small {
+  border-radius: 96px;
+  width: 100%;
+  height: 460px;
+  background-color: #d9d9d9;
+}
+
+.img-box-large {
+  border-radius: 96px;
+  width: 100%;
+  height: 852px;
+  background-color: #d9d9d9;
+}
